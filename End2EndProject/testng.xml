@@ -6,18 +6,18 @@
 	</listeners>
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="Academy.ValiDateTitle" />
+			<class name="Academy.ValiDateTitle"/>
 		</classes>
 	</test>
 
 	<test thread-count="5" name="Test2">
 		<classes>
-			<class name="Academy.ValiDateNavigationBar" />
+			<class name="Academy.ValiDateNavigationBar"/>
 		</classes>
 	</test>
 	<test thread-count="5" name="Test3">
 		<classes>
-			<class name="Academy.HomePage" />
+			<class name="Academy.HomePage"/>
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
